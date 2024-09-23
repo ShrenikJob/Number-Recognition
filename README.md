@@ -37,7 +37,7 @@ To run the code in Python, first we need to get the environment.
 
 ## Follow the steps to get started:
 
-#### i) Git clone the repository and extract the "train.zip" folder:
+#### i) Git clone the repository:
 
 #### ii) Install Virtual Environment:
 ```shell
